@@ -1,0 +1,19 @@
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+/Users/antonio/.rbenv/versions/2.6.3/bin/ruby -I /Users/antonio/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20200219-90044-acg2t2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200219-90044-t9lziy/byebug

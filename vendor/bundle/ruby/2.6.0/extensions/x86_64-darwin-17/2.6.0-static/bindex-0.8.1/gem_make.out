@@ -1,0 +1,15 @@
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/antonio/.rbenv/versions/2.6.3/bin/ruby -I /Users/antonio/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20200219-90044-1m71emf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/antonio/code/maio12/blog/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200219-90044-g9cxp9/skiptrace/internal
